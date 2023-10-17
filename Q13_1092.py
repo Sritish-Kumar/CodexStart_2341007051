@@ -11,7 +11,7 @@
 # Principal: If the sum of numbers is odd not possible to divide it into 2 set
 # If sum is even may be divided
 # Now if the sum is even. Try making each set sum as n//2. 
-
+# I am still wotking on this...
 
 num=[i for i in range(1, int(input())+1)]
 num1=num
