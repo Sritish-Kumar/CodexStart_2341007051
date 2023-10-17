@@ -7,7 +7,8 @@
 
 # !!! DISCLAIMER !!! : WRONG ANSWER
 # This is not complete. I am working on this. 
-# This just print all binary numbers upto required len. Now i just have to work some way to sort into a gray code. 
+# This just print all binary numbers upto required len. Now i just have to work some way to sort this into a gray code. 
+# No screenshot is added as this doesnt work
 
 n=int(input())
 l=1         # current len
@@ -30,3 +31,5 @@ while l<=n:
         l=len(bin(i)[2:])
     
 # print(i)   # count
+
+    # ........................
